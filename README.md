@@ -1,5 +1,39 @@
 # NEWS-APP-USING-REACT-NATIVE-AND-FIREBASE.
 NEWS APP USING REACT NATIVE AND FIREBASE.
+
+## GitHub Octernship Information
+
+| Field | Details |
+|---|---|
+| Mentor | [Jyotirmay Chowdhury](https://github.com/Jyotirmay-Chowdhury) |
+| Stipend | $500 USD/month |
+| Duration | 3 months |
+| Octernship Start Date | **July 2023** |
+| Application Deadline | June 30, 2023 |
+
+### About the Octernship
+
+This project is part of the **GitHub Octernship** program. Selected interns will contribute to the News App built with React Native and Firebase.
+
+### Octernship Task
+
+To apply for this Octernship, complete the following assignment:
+
+1. Fork this repository.
+2. Add a new feature (e.g., a **Search** screen that allows users to search news articles by keyword).
+3. Ensure the new feature integrates with the existing Firebase backend.
+4. Submit a pull request with your implementation and a short description of the changes.
+
+### How to Apply
+
+1. Complete the task above.
+2. Share your pull request link when applying through the GitHub Octernship portal.
+3. Applications are reviewed on a rolling basis until the deadline.
+
+---
+
+## App Screenshots
+
 ### 1.	Welcome Tab
 ![Welcome Tab](https://github.com/Jyotirmay-Chowdhury/NEWS-APP-USING-REACT-NATIVE-AND-FIREBASE./blob/main/APP-Loading-Image.png).
 ![Welcome Tab](https://github.com/Jyotirmay-Chowdhury/NEWS-APP-USING-REACT-NATIVE-AND-FIREBASE./blob/main/Welcome-Tab.png).
